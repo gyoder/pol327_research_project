@@ -12,4 +12,5 @@
 
 #header_box(dt("2026-02-11"), "2 Hours", "Created documents and research proposal")
 
+Started the project! See version history and PDF at #link("https://github.com/gyoder/pol327_research_project")
 
