@@ -15,3 +15,5 @@
 #include "proposal.typ"
 #pagebreak()
 #include "journal.typ"
+#pagebreak()
+#include "bib.typ"
