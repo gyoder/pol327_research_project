@@ -35,7 +35,22 @@ proportion of coal power production and the cars are likely smaller but I will
 need to do more research to confirm that.
 
 
+#header_box(dt("2026-04-07"), "6 Hours", "Read and annotated book")
 
+Due to some coinciding events in my personal and academic life, I have not been
+able to do much research for this project and plan on playing a lot of catch up
+this week. In that time, I did, however, find a book that has some relevance to
+the topic at hand.
+
+I read and annotated *Stop Saving The Planet* by Jenny
+Price@j:bstopsavingtheplanet as reference for this paper. It seems very relevant
+for many environmental issues. She critiques American Environmentalism and the
+mainstream messaging about climate solutions. While I do feel like some of the
+suggestions at the end are without substance and not helpful, many of the points
+she makes are very good. I particularly like how "Green Virtue" pushes
+responsibility onto individuals, allowing companies to not change anything.
+Additionally, tax breaks benefit the wealthy more than the actual communities
+impacted.
 
 
 
