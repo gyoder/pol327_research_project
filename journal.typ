@@ -53,6 +53,39 @@ Additionally, tax breaks benefit the wealthy more than the actual communities
 impacted.
 
 
+#header_box(dt("2026-04-08"), "6 Hours", "More Papers")
+
+I was able to collect a significant amount of papers yesterday and I began to go
+through them today. For pure science about ecological impact, I read a life
+cycle analysis of EVs, ICE Vehicles, and Fuel Cell Vehicles@j:bgermanimpact.
+This is helpful as it demonstrated that EVs were better for pure Global Warming
+impact but were worse for toxicity, particulate matter, and other ecological
+variables. This was interesting and helpful. So much nuance can be lost when
+discussing ecological impact when it just gets boiled down to CO#sub[2] being
+released into the atmosphere. Acknowledging that there is more impact is useful.
+
+Additionally, there was a paper that was about the undercounting of emissions
+from EVs by emission credit policies in the US and China@j:bghgforev. This is
+relevant as it gives EVs preferential treatments that they should not be
+getting based on pure numbers.
+
+I also read a paper on the equity of the equity of EV tax credits in the United
+States@j:bevequity. This one really surprised me as I did not realize how much a
+person needed to make in order to qualify for the tax credits. It fully benefits
+higher income people over the people who need the help. Only one state put an
+income limit on the credit. It seems like these tax credits encourage consumerism
+as a solution to this issue. They seems to just befit car manufacturers
+
+The last paper I read was a nice positive change. I read a paper about the
+impact of investment in public transportation on emission
+reduction@j:bpublictransitreduction. This was super great because they had many
+items that cost little or save money in the long term. Additionally, public
+transit investments are some of the most equitable investments that a government
+can make so the fact that they have a positive impact on the environment is
+great! This study is a bit on the older side, but it still is a good
+demonstration of what is possible.
+
+
 
 #hidden-bibliography(
   bibliographyx(
