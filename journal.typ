@@ -92,6 +92,6 @@ demonstration of what is possible.
     "works.bib",
     prefix: "j:",
     title: "Bibliography",
-    style: "./chicago.csl"
+    style: "./apsa.csl"
   )
 )

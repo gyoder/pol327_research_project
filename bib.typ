@@ -11,4 +11,4 @@
 
 
 
-#bibliography("works.bib", style: "chicago.csl", full: true)
+#bibliography("works.bib", style: "./apsa.csl", full: true)
