@@ -85,6 +85,18 @@ can make so the fact that they have a positive impact on the environment is
 great! This study is a bit on the older side, but it still is a good
 demonstration of what is possible.
 
+#header_box(dt("2026-04-12"), "4 Hours", "Writing")
+
+I was hoping to do a bunch of writing on Friday and Saturday, but I ended up in
+the ER and had a bad panic attack so was unable to do any work those days. Today
+I was able to get work done. The paper seems to be coming along well and I think
+the point is made well.
+
+#header_box(dt("2026-04-13"), "5 Hours", "Writing and Finalizing")
+
+I was able to finish the draft today and look over it and format everything
+correctly. I am pretty proud of it. I hope to do the peer review for my
+group mates tomorrow.
 
 
 #hidden-bibliography(
@@ -92,6 +104,6 @@ demonstration of what is possible.
     "works.bib",
     prefix: "j:",
     title: "Bibliography",
-    style: "./apsa.csl"
+    style: "./chicago.csl"
   )
 )

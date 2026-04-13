@@ -6,14 +6,18 @@
 #show: alexandria(prefix: "c:", read: path => read(path))
 
 #show: doc => grace_template(
-  title: "Position Paper",
-  // subtitle: "Research Project",
+  title: "EV Tax Credits and Environmental Consumerism",
+  subtitle: "Global Green Politics",
   course: "POL 327",
+  date: dt("2026-04-13"),
   in_outline: true,
   doc
 )
 
 
+#set par(spacing: 2em, leading: 2em, first-line-indent: 1em)
+
+#set text(size: 12pt)
 
 
 
@@ -64,7 +68,7 @@ level. However, these local governments have a lot of power to implement
 policies that are able to make a bigger impact per capita. Additionally, car
 manufacturers have a vested interest in promoting the idea of buying more cars
 in order to escape the current crisis we are in. This leads to them to lobby for
-these tax incentives for new cars TODO CITE OPEN SECRETS HERE.
+these tax incentives for new cars.
 
 One of the major issues with this type of legislation is that it assumes that
 EVs are much better for the environment than they actually are. A study that
@@ -104,7 +108,73 @@ credit system as they did not make enough to have the credit be of any effect.
 Only two states (Louisiana and Montana) have any limits on the maximum income
 that the credit applies @c:bevequity. This demonstrates how the Tax Credit
 system explicitly benefits more wealthy people while fully ignoring people who
-do not make enough for the the Tax Credit.
+do not make enough for the the Tax Credit. In _Stop Saving The Planet_, Jenny
+Price introduces the idea of "Green Virtue," or the idea that doing certain
+things makes an individual feel like they are doing a good and helping the
+planet. Often this is via consumerism and involves buying new products. Price
+describes how "all this SUV driving and gummy bear eating is accompanied by a
+never-ending greener-than-thou drumbeat, about how supremely virtuous
+environmentalist and their kids are because they buy and use all this stuff that
+you can't afford" @c:bstopsavingtheplanet[57]. The mentality that as a society,
+the antidote to a crisis caused by consumption and industry is more consumption
+but efficiently is not only something that only helps those who are wealthy, but
+is also a backwards idea from the get go that can only make things worse in the
+long run.
+
+
+While considering all of this information, it seems clear that EV Tax Credits
+are ineffective as a strategy to maintain the environment and reduce the impact
+of human involvement. A much better solution is to use the money that was being
+put into tax credits and invest it into public transportation and other transit
+initiatives at the local level. By investing in this public transportation,
+cities are able to reduce the amount of cars on the road and help the
+environment at a better value for money spent. According to a study done by the
+city of Los Angeles that looked at the reduction in GHG emissions for different
+proposals for public transportation, by implementing ridesharing and carpooling
+incentives, transit-oriented design for new builds, and other measures, the city
+can reduce emissions for less than \$14 per ton @c:bpublictransitreduction.
+While this study was conducted in 2009, the idea that reduction of emissions can
+happen by investing in public transit remains true. This investment also
+benefits those who do not have cars and are less well off, as opposed to only
+befitting the wealthy like the tax credits do.
+
+
+While the federal government is great for enacting sweeping changes (like
+emission caps), local governments are much better equipped for creating
+solutions that are tailored for the specific area. A great example of this is
+how, in early 2025, New York City implemented congestion pricing which added a
+cost for cars (with certain exceptions for work vehicles) that are attempting to
+drive into Manhattan during peak hours. Within the first 6 months of this being
+implemented, fine particulate matter in the air dropped by 22% @c:bnyc. The
+immediate effects of this policy benefits everyone who lives in the city.
+Additionally, the funds being collected by the program are being invested in the
+MTA, further benefiting the public. This is a great example of how cities are
+able to create policies that are incredibly effective for the communities where
+a national policy could not be.
+
+
+It could be difficult to phase out EV Tax Credits due to industry pressure to
+keep them going. The Tax Credits directly benefit Automakers as it encourages
+the purchases of new vehicles over older ones. According to data by OpenSecrets,
+industry lobbying has been increasing since 2021, especially following the
+passage of the Inflation Reduction Act @c:bopensecrets. It may be difficult to
+fully move away from tax credits.
+
+
+EV Tax Credits are an ineffective method of ecological management as the
+environmental impact reduction is less significant than generally believed and
+the system of tax credits benefits the people that are least affected by the
+original ecological issues. They should be removed in favor of local policies
+oriented around public transit. Ultimately, the tax credits are just a symptom
+of a large issue with the American attitude about the environment. After years
+of advertising and oil company campaigns for reducing your carbon footprint,
+many Americans believe that they, as an individual, are able to help make an
+impact in the climate disaster. They are convinced that they can help by
+engaging in consumerism and are virtuous for doing so. Companies have convinced
+that the solution lies in personal choices and responsibility, and not in strict
+regulations on industry impact on the environment. The only thing between you
+and the end of climate change is \$7,500 off of the brand new 2026 Chevy Equinox
+EV.
 
 
 
@@ -131,13 +201,14 @@ do not make enough for the the Tax Credit.
 
 
 
+#pagebreak()
 
-
+#align(center)[*References*]
 
 #bibliographyx(
   "works.bib",
   prefix: "c:",
-  title: "Bibliography",
+  title: "",
   style: "./apsa.csl",
   full: true,
 )
